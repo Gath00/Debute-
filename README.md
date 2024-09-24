@@ -1,0 +1,1 @@
+"Débutant sur GitHub, je suis passionné par l'apprentissage du développement. Je vais mettre à jour mon repository avec mes projets au fur et à mesure de mon évolution. Actuellement, je commence à apprendre Python et j’apprécierai tout conseil de la communauté
